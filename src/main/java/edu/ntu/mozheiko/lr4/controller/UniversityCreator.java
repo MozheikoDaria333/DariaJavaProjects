@@ -1,9 +1,9 @@
-package edu.ntu.mozheiko.lr3.controller;
+package edu.ntu.mozheiko.lr4.controller;
 
-import edu.ntu.mozheiko.lr3.model.Faculty;
-import edu.ntu.mozheiko.lr3.model.Human;
-import edu.ntu.mozheiko.lr3.model.Sex;
-import edu.ntu.mozheiko.lr3.model.University;
+import edu.ntu.mozheiko.lr4.model.Faculty;
+import edu.ntu.mozheiko.lr4.model.Human;
+import edu.ntu.mozheiko.lr4.model.Sex;
+import edu.ntu.mozheiko.lr4.model.University;
 
 public class UniversityCreator {
 
@@ -11,7 +11,7 @@ public class UniversityCreator {
 
     public University createTypicalUniversity() {
         Human rector = new Human("Дмитро", "Можейко", "Іванович", Sex.MALE);
-        University university = new University("НТУ \"Приклад\"", rector);
+        University university = new University("НТУ \"Прикладний\"", rector);
 
         Faculty f1 = facultyCreator.createFacultyWithTwoDepartments("ФІТ", rector);
         Faculty f2 = facultyCreator.createFacultyWithTwoDepartments("ФЕУ", rector);

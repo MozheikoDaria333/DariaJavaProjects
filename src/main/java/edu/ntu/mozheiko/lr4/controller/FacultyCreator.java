@@ -1,8 +1,8 @@
-package edu.ntu.mozheiko.lr3.controller;
+package edu.ntu.mozheiko.lr4.controller;
 
-import edu.ntu.mozheiko.lr3.model.Department;
-import edu.ntu.mozheiko.lr3.model.Faculty;
-import edu.ntu.mozheiko.lr3.model.Human;
+import edu.ntu.mozheiko.lr4.model.Department;
+import edu.ntu.mozheiko.lr4.model.Faculty;
+import edu.ntu.mozheiko.lr4.model.Human;
 
 public class FacultyCreator {
 

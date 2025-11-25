@@ -1,4 +1,6 @@
-package edu.ntu.mozheiko.lr3.model;
+package edu.ntu.mozheiko.lr4.model;
+
+import java.util.Objects;
 
 public class Human {
     private String firstName;
@@ -11,6 +13,10 @@ public class Human {
         this.lastName = lastName;
         this.middleName = middleName;
         this.sex = sex;
+    }
+
+    public Human() {
+        // потрібен для Gson
     }
 
     public String getFirstName() {
@@ -32,5 +38,21 @@ public class Human {
     @Override
     public String toString() {
         return lastName + " " + firstName + " " + middleName + " (" + sex + ")";
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Human)) return false;
+        Human human = (Human) o;
+        return Objects.equals(firstName, human.firstName) &&
+                Objects.equals(lastName, human.lastName) &&
+                Objects.equals(middleName, human.middleName) &&
+                sex == human.sex;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(firstName, lastName, middleName, sex);
     }
 }

@@ -1,7 +1,7 @@
-package edu.ntu.mozheiko.lr3.controller;
+package edu.ntu.mozheiko.lr4.controller;
 
-import edu.ntu.mozheiko.lr3.model.Sex;
-import edu.ntu.mozheiko.lr3.model.Student;
+import edu.ntu.mozheiko.lr4.model.Sex;
+import edu.ntu.mozheiko.lr4.model.Student;
 
 public class StudentCreator {
 
