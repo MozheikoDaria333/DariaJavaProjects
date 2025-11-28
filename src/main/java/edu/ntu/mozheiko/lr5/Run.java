@@ -10,7 +10,6 @@ import java.util.Scanner;
 public class Run {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        // Використовуємо інтерфейс для створення об'єкта
         StudentDao studentDao = new StudentDaoJdbc();
 
         System.out.println(" Лабораторна робота №5: JDBC (Mozheiko) ");
