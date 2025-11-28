@@ -1,0 +1,277 @@
+{
+  "faculties": [
+    {
+      "departments": [
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "groupName": "ФІТ Кафедра 1 Гр1",
+                  "firstName": "Іван",
+                  "lastName": "Іванов",
+                  "middleName": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "ФІТ Кафедра 1 Гр1",
+                  "firstName": "Марія",
+                  "lastName": "Петренко",
+                  "middleName": "Олександрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ФІТ Кафедра 1 Гр1",
+              "head": {
+                "firstName": "Дмитро",
+                "lastName": "Можейко",
+                "middleName": "Іванович",
+                "sex": "MALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "groupName": "ФІТ Кафедра 1 Гр2",
+                  "firstName": "Іван",
+                  "lastName": "Іванов",
+                  "middleName": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "ФІТ Кафедра 1 Гр2",
+                  "firstName": "Марія",
+                  "lastName": "Петренко",
+                  "middleName": "Олександрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ФІТ Кафедра 1 Гр2",
+              "head": {
+                "firstName": "Дмитро",
+                "lastName": "Можейко",
+                "middleName": "Іванович",
+                "sex": "MALE"
+              }
+            }
+          ],
+          "name": "ФІТ Кафедра 1",
+          "head": {
+            "firstName": "Дмитро",
+            "lastName": "Можейко",
+            "middleName": "Іванович",
+            "sex": "MALE"
+          }
+        },
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "groupName": "ФІТ Кафедра 2 Гр1",
+                  "firstName": "Іван",
+                  "lastName": "Іванов",
+                  "middleName": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "ФІТ Кафедра 2 Гр1",
+                  "firstName": "Марія",
+                  "lastName": "Петренко",
+                  "middleName": "Олександрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ФІТ Кафедра 2 Гр1",
+              "head": {
+                "firstName": "Дмитро",
+                "lastName": "Можейко",
+                "middleName": "Іванович",
+                "sex": "MALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "groupName": "ФІТ Кафедра 2 Гр2",
+                  "firstName": "Іван",
+                  "lastName": "Іванов",
+                  "middleName": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "ФІТ Кафедра 2 Гр2",
+                  "firstName": "Марія",
+                  "lastName": "Петренко",
+                  "middleName": "Олександрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ФІТ Кафедра 2 Гр2",
+              "head": {
+                "firstName": "Дмитро",
+                "lastName": "Можейко",
+                "middleName": "Іванович",
+                "sex": "MALE"
+              }
+            }
+          ],
+          "name": "ФІТ Кафедра 2",
+          "head": {
+            "firstName": "Дмитро",
+            "lastName": "Можейко",
+            "middleName": "Іванович",
+            "sex": "MALE"
+          }
+        }
+      ],
+      "name": "ФІТ",
+      "head": {
+        "firstName": "Дмитро",
+        "lastName": "Можейко",
+        "middleName": "Іванович",
+        "sex": "MALE"
+      }
+    },
+    {
+      "departments": [
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "groupName": "ФЕУ Кафедра 1 Гр1",
+                  "firstName": "Іван",
+                  "lastName": "Іванов",
+                  "middleName": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "ФЕУ Кафедра 1 Гр1",
+                  "firstName": "Марія",
+                  "lastName": "Петренко",
+                  "middleName": "Олександрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ФЕУ Кафедра 1 Гр1",
+              "head": {
+                "firstName": "Дмитро",
+                "lastName": "Можейко",
+                "middleName": "Іванович",
+                "sex": "MALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "groupName": "ФЕУ Кафедра 1 Гр2",
+                  "firstName": "Іван",
+                  "lastName": "Іванов",
+                  "middleName": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "ФЕУ Кафедра 1 Гр2",
+                  "firstName": "Марія",
+                  "lastName": "Петренко",
+                  "middleName": "Олександрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ФЕУ Кафедра 1 Гр2",
+              "head": {
+                "firstName": "Дмитро",
+                "lastName": "Можейко",
+                "middleName": "Іванович",
+                "sex": "MALE"
+              }
+            }
+          ],
+          "name": "ФЕУ Кафедра 1",
+          "head": {
+            "firstName": "Дмитро",
+            "lastName": "Можейко",
+            "middleName": "Іванович",
+            "sex": "MALE"
+          }
+        },
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "groupName": "ФЕУ Кафедра 2 Гр1",
+                  "firstName": "Іван",
+                  "lastName": "Іванов",
+                  "middleName": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "ФЕУ Кафедра 2 Гр1",
+                  "firstName": "Марія",
+                  "lastName": "Петренко",
+                  "middleName": "Олександрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ФЕУ Кафедра 2 Гр1",
+              "head": {
+                "firstName": "Дмитро",
+                "lastName": "Можейко",
+                "middleName": "Іванович",
+                "sex": "MALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "groupName": "ФЕУ Кафедра 2 Гр2",
+                  "firstName": "Іван",
+                  "lastName": "Іванов",
+                  "middleName": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "ФЕУ Кафедра 2 Гр2",
+                  "firstName": "Марія",
+                  "lastName": "Петренко",
+                  "middleName": "Олександрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "ФЕУ Кафедра 2 Гр2",
+              "head": {
+                "firstName": "Дмитро",
+                "lastName": "Можейко",
+                "middleName": "Іванович",
+                "sex": "MALE"
+              }
+            }
+          ],
+          "name": "ФЕУ Кафедра 2",
+          "head": {
+            "firstName": "Дмитро",
+            "lastName": "Можейко",
+            "middleName": "Іванович",
+            "sex": "MALE"
+          }
+        }
+      ],
+      "name": "ФЕУ",
+      "head": {
+        "firstName": "Дмитро",
+        "lastName": "Можейко",
+        "middleName": "Іванович",
+        "sex": "MALE"
+      }
+    }
+  ],
+  "name": "НТУ \"Прикладний\"",
+  "head": {
+    "firstName": "Дмитро",
+    "lastName": "Можейко",
+    "middleName": "Іванович",
+    "sex": "MALE"
+  }
+}
